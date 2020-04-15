@@ -1,0 +1,12 @@
+Discussion Log
+Assignment: Project 5 (Minesweeper)
+Name: Louis Fiacco
+
+I did not collaborate with anyone for the majority of this project. I had a small question that I asked Sarah concerning the game parameter in StatusBox which took less than a minute for me to understand.
+
+My program works as intended. When you make your first click on a square, the timer will start and then will stop when you either win or lose the game. The Mines deploy randomly and neighbor mine count is implemented properly.All three game modes work as intended. StatusBox works as well.
+
+Extra crerdit:
+I used BeveledRectangles for all of my squares and mines.
+I changed the colors of the squares as well as had multiple colors for the numbers of the neighbor mine count in the cells neighboring the mines. 
+
